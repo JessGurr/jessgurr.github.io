@@ -4,6 +4,7 @@ published: false
 
 
 
+
 ![]({{site.baseurl}}/_drafts/IMG_2606.jpg)
 
 ## What I love about Autumn
@@ -14,7 +15,7 @@ You can definitely feel that things are changing. The air and light are differen
 
 I never really liked school that much, but one of my favourite memories of going back for a new term was being taken to pick out a new school bag and all the stationery ー I'm a bit of a stationery fiend :pencil2: :black_nib: :straight_ruler: :notebook:.
 
-Below are 10 things I absolutely love about the season and that I think make it really special:
+Below are 10 things that I absolutely love about the season and think make it really special:
 
 1. Crisp, cold mornings
 2. Stomping through all the crunchy leaves :maple_leaf: :fallen_leaf: :leaves:
@@ -22,11 +23,11 @@ Below are 10 things I absolutely love about the season and that I think make it 
 4. Wrapping up warm in a nice coat, scarf and hat etc
 5. Hot drinks
 6. Wearing chunky boots and loads of layers
-7. Snuggling up on the sofa with a blanket, nice fire going and some films
+7. Snuggling up on the sofa with a blanket and the Boy, with a nice fire going and some films
 8. Making soup
 9. The fact that it's nearly my birthday (and bonfire night!)
 10. Planning for Christmas
 
 In the next few weeks, I plan on taking the Boy and my camera to our local [Arboretum](http://www.forestry.gov.uk/westonbirt) to get some shots of the amazing trees and foliage. Everything is absolutely beautiful there this time of year.
 
-It may be pouring with rain today, but I look forward to the next time I'm out in the yellowish light of an Autumnal sun, feeling the cold prickle on my cheeks and anticipating all the exciting things to come - lots of birthdays (including mine!), Christmas, and the promise of a new year.
+It may be pouring with rain today, but I look forward to the next time I'm out in the yellowish light of an Autumnal sun, feeling the cold prickle my cheeks and anticipating all the exciting things to come - lots of birthdays (including mine!), Christmas, and the promise of a new year.
