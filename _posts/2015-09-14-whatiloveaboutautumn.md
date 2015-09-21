@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: "What I love about Autumn"
 ---
 
 
