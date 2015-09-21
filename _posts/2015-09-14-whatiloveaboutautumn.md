@@ -5,7 +5,7 @@ published: true
 
 
 
-![]({{site.baseurl}}/_drafts/IMG_2606.jpg)
+![]({{site.baseurl}}/images/IMG_2606.jpg)
 
 ## What I love about Autumn
  
