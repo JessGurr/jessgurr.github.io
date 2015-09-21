@@ -4,14 +4,11 @@ layout: post
 title: "What I love about Autumn"
 ---
 
-
-
-
-![]({{site.baseurl}}/images/IMG_2606.jpg)
-
 ## What I love about Autumn
- 
+
 There's nothing better than to go out on a really chilly, crisp Autumn morning, wrapped up in warm clothes, cup of steaming coffee in hand (there's a bit of a coffee theme going on here :smirk:) and walking to work through all the crunchy, brightly coloured leaves that litter the floor. 
+
+![What I love about Autumn]({{site.baseurl}}/images/IMG_2606.jpg)
 
 You can definitely feel that things are changing. The air and light are different; there's a whisper of bitterness in the wind; the nights are drawing in once again, preparing us for winter. That and now the summer holidays are over, the kids are back in school.
 
