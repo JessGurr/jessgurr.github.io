@@ -30,8 +30,10 @@ excerpt_separator: <!--more-->
 
 # Sidebar links
 links:
+  Instagram: "https://instagram.com/jessgurrwrites/"
+  Pinterest: "https://www.pinterest.com/jessgurrwrites/"
   Twitter: "http://twitter.com/JessicaGurr"
-  GitHub: "http://github.com/JessGurr"
+  # GitHub: "http://github.com/JessGurr"
   Behance: "http://behance.net/wildfire198"
 
 # Gems
