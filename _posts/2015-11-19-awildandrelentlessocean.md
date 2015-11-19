@@ -4,9 +4,6 @@ title: A wild and relentless ocean
 published: true
 ---
 
-
-## A wild and relentless ocean
-
 ![Stormy Night by José María Pérez Nuñez](https://farm3.staticflickr.com/2687/4381243528_8cee311075_z.jpg)
 *Photo "[Stormy Night](https://flic.kr/p/7Fa24w)" by [José María Pérez Nuñez](https://www.flickr.com/photos/jmpznz/)*
 
