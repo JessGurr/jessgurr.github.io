@@ -4,7 +4,7 @@ title: "Ray's Pizza"
 published: true
 ---
 
-![rays_pizza.jpg]({{site.baseurl}}/images/rays_pizza.jpg)
+![Rays Pizza]({{site.baseurl}}/images/rays_pizza.jpg)
 
 A little while back, D and I went to Ray’s Pizza for dinner. You’ll find it at The Lanes bowling alley just off Nelson Street: keep walking down from Broadmead/The Galleries, past the old H&M store and it’s straight in front of you. Having tried it once before on a birthday night out with friends, I had to go back again as they do some of the best pizza I’ve ever had. 
 
@@ -14,7 +14,7 @@ To be fair, it’s not the best looking place to eat. It’s got a ‘hipster gr
 
 *Unfortunately, they don’t sell it by the slice, but you couldn’t get away with just eating one, anyway ;).*
 
-![Pepperoni pizza![IMG_2814.JPG]({{site.baseurl}}/images/IMG_2814.JPG)
+![Pepperoni pizza!]({{site.baseurl}}/images/IMG_2814.jpg)
 
 I guess this is quite a big claim, as there are many good places to eat pizza in Bristol. Amongst my friends who live near Bedminster (and even further afield), the one to beat is The Hen & Chicken, especially with their two-for-one deal on a Monday. At the risk of bucking the trend a bit, I didn’t actually think they were that great - the base was far too thin; my toppings and sauce ended up soaking through it and running down my hand as I tried to eat. Most pizzas that are this thin also tend to be ridiculously crispy, which isn’t my thing either. 
 
@@ -27,4 +27,5 @@ Ephemera from yesteryear is dotted throughout the alley. The music is usually so
 If you want a good night out with some friends, this is the place to come. Get a couple of lanes and order some 18” pizzas to share (or if like me, you don’t want to share yours, get a 12” - they’re pretty big, but worth it). I do recommend booking if you want to bowl, as it gets pretty busy. They also hold club nights and open mic nights, which is pretty cool. 
 
 I discovered recently Ray’s actually deliver to the local area or you can take away. If you’re not that into bowling, but still want some amazing pizza, then I’d recommend doing that. We’ll certainly be doing so in the near future.
-![Me and my pizza]({{site.baseurl}}/images/IMG_2815.JPG)
+
+![Me and my pizza]({{site.baseurl}}/images/IMG_2815.jpg)
