@@ -6,7 +6,7 @@ published: true
 
 ![Rays Pizza]({{site.baseurl}}/images/rays_pizza.jpg)
 
-A little while back, D and I went to Ray’s Pizza for dinner. You’ll find it at The Lanes bowling alley just off Nelson Street: keep walking down from Broadmead/The Galleries, past the old H&M store and it’s straight in front of you. Having tried it once before on a birthday night out with friends, I had to go back again as they do some of the best pizza I’ve ever had. 
+A little while back, D and I went to [Ray’s Pizza](http://www.thelanesbristol.co.uk/rays-pizza/) for dinner. You’ll find it at The Lanes bowling alley just off Nelson Street: keep walking down from Broadmead/The Galleries, past the old H&M store and it’s straight in front of you. Having tried it once before on a birthday night out with friends, I had to go back again as they do some of the best pizza I’ve ever had. 
 
 <!--more-->
 
