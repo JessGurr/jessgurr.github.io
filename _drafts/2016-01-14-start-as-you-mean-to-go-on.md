@@ -18,29 +18,29 @@ Using the MyFitnessPal app to count calories really isn’t as hard as you’d t
 
 A friend of mine is also working on getting fit at the minute. I have to say, she’s a bit of an inspiration. She’s so dedicated to her fitness and makes time to do some seriously intense workouts. Spin class, then a HiiT class afterwards? Rather you than me, Z ;). I certainly do admire her ability to stick with it. She started doing this quick workout on the side that somebody showed her and I liked the idea of it. You have to take your name, look at a reference board that has an exercise assigned to each letter of the alphabet and build your own workout. Have a look at mine below:
 
-J - 15 crunches
-E - 1 min wall sit
-S - 30 burpees
-S - 30 burpees
-I - 30 jumping jacks
-C - 30 squats
-A - 50 jumping jacks
+J - 15 crunches  
+E - 1 min wall sit  
+S - 30 burpees  
+S - 30 burpees  
+I - 30 jumping jacks  
+C - 30 squats  
+A - 50 jumping jacks  
 
-A - 50 jumping jacks
-M - 20 burpees
-Y - 10 crunches
+A - 50 jumping jacks  
+M - 20 burpees  
+Y - 10 crunches  
 
-G - 20 sec arm curls
-U - 30 sec arm curls
-R - 15 push ups
-R - 15 push ups
+G - 20 sec arm curls  
+U - 30 sec arm curls  
+R - 15 push ups  
+R - 15 push ups  
 
 Damn all those double consonants. My name doesn’t really give the most varied of exercises, but these seem to work all the right places: arms, abs and legs. I’m going to try and build this into a week’s exercise regime that will go something like this: 
 
-*Name game (above) - 3 to 4 times a week
-*Run - once a week
-*Gym - at least once a week, probably a combination of weights and running on the treadmill or rowing.
-*Class - once a week
-*General physio/joint exercises - at least once a day
+*Name game (above) - 3 to 4 times a week  
+*Run - once a week  
+*Gym - at least once a week, probably a combination of weights and running on the treadmill or rowing  
+*Class - once a week  
+*General physio/joint exercises - at least once a day  
 
 Once the weather gets a bit less wet and slightly warmer, I will be going out to restart my parkour training, this time without a trainer. I might see if I can get together with some other people to train with. Also want to ride my bike more. All of these things I actually like doing and feel really positive about myself afterwards. Seriously missing parkour training at the minute. 
