@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Start as you mean to go on
-published: false
+published: true
 ---
 
 ![Fitness]({{site.baseurl}}/_drafts/2016fitness.jpg)
