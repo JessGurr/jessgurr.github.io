@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Start as you mean to go on"
-published: false
+published: true
 ---
 
 It’s become rather cliche to say that come January 1st, you’re going to get fit and start eating healthier. I suppose it does go with the end of Christmas, having had all the rich and delicious things that come with the season. I’m not into New Years resolutions, as I rarely stick to them, but the one thing I did stick to for the last couple of years is getting fitter and trying to lose some weight; that is until about six months ago.
