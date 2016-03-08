@@ -1,6 +1,6 @@
 # Dependencies
 markdown: redcarpet
-highlighter: pygments
+# highlighter: pygments
 
 # Permalinks
 permalink: pretty
@@ -11,7 +11,6 @@ title: Jess Gurr
 tagline: 'Copywriter, Illustrator & Designer'
 description: 'This is the website of Jess Gurr - Copywriter, Illustrator and Designer based in Bristol, UK'
 url: http://jessgurr.com
-baseurl:          
 
 author:
   name: 'Jess Gurr'
