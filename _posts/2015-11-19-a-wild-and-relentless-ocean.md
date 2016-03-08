@@ -2,6 +2,7 @@
 layout: post
 title: A wild and relentless ocean
 published: true
+image: https://farm3.staticflickr.com/2687/4381243528_8cee311075_z.jpg
 ---
 
 ![Stormy Night by José María Pérez Nuñez](https://farm3.staticflickr.com/2687/4381243528_8cee311075_z.jpg)
