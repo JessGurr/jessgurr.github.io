@@ -1,21 +1,21 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 # relative_permalinks: true
 
 # Setup
-title:            Jess Gurr
-tagline:          'Copywriter, Illustrator & Designer'
-description:      'This is the website of Jess Gurr - Copywriter, Illustrator and Designer based in Bristol, UK'
-url:              http://jessgurr.com
+title: Jess Gurr
+tagline: 'Copywriter, Illustrator & Designer'
+description: 'This is the website of Jess Gurr - Copywriter, Illustrator and Designer based in Bristol, UK'
+url: http://jessgurr.com
 baseurl:          
 
 author:
-  name:           'Jess Gurr'
-  url:            https://twitter.com/JessicaGurr
+  name: 'Jess Gurr'
+  url: https://twitter.com/JessicaGurr
 
 paginate:         5
 
@@ -23,7 +23,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/JessGurr/jessgurr.github.io
+  repo: https://github.com/JessGurr/jessgurr.github.io
 
 # Posts
 excerpt_separator: <!--more-->
@@ -49,3 +49,20 @@ jekyll-mentions: https://twitter.com
 # Meta
 meta:
   twitter: JessicaGurr
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      is_page: true
+      layout: page
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      is_post: true
+      layout: post
