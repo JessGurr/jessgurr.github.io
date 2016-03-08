@@ -2,6 +2,7 @@
 layout: post
 title: "Ray's Pizza"
 published: true
+image: https://jessgurr.com/images/IMG_2814.jpg
 ---
 
 ![Rays Pizza]({{site.baseurl}}/images/rays_pizza.jpg)
