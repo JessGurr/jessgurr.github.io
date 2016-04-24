@@ -37,6 +37,7 @@ gems:
   - jemoji
   - jekyll-sitemap
   - jekyll-mentions
+  - jekyll-paginate
 
 jekyll-mentions: https://twitter.com
 
