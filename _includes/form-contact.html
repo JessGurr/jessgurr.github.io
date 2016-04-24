@@ -1,0 +1,31 @@
+<form id="contactform" class="form" method="POST">
+
+  <input type="hidden" name="_subject" value="Website contact form" />
+
+  <div class="formgroup">
+     <label class="label" for="subject">Subject:</label> <input type="text" id="subject" name="subject" placeholder="Message title" required>
+   </div>
+
+  <div class="formgroup  formgroup--from">
+    <label class="label" for="_replyto">From:</label> <input type="email" id="_replyto" name="_replyto" placeholder="Your email" required>
+  </div>
+
+  <div class="formgroup  formgroup--message">
+     <label class="label" for="message">Message:</label> <textarea id="message" name="message" placeholder="Your message..."></textarea>
+  </div>
+
+  <input type="text" name="_gotcha" style="display:none" />
+  <input type="hidden" name="_next" value="/thanks" />
+
+  <div class="formgroup  formgroup--send">
+     <input class="submit" type="submit" value="Send">
+  </div>
+
+</form>
+
+<script>
+  var contactform = document.getElementById('contactform');
+  var email       = 'me' + '@' + 'jessgurr' + '.' + 'com';
+
+  contactform.setAttribute('action', 'https://formspree.io/' + email);
+</script>
