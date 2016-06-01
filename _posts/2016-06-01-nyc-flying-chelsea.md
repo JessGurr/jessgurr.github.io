@@ -4,7 +4,7 @@ published: false
 title: "'New York, New York', flying and the Chelsea District"
 ---
 
-![nyc16_chelsea]({{site.baseurl}}/images/xxx.jpg)
+![nyc16_chelsea]({{site.baseurl}}/images/nyc2016.jpg)
 
 **Just over a month ago, Dave and I travelled to New York City for a five day break - it was his first trip and my third, so I showed him the sights and we found a few new interesting places on our travels, too. I’ve written up what we did during our time there; it’s written by district as a (mostly) day by day account. We fit in so much each day that there’s quite a lot to cover. I’’l probably have five or so ‘episodes’, if you will, about what we got up to so that it’s not one massively long post!** 
 
