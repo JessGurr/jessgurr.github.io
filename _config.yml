@@ -31,7 +31,6 @@ links:
   # Behance: "http://flickr.com/wildfire198"
   Flickr: "https://www.flickr.com/photos/ohtothejaydizzle"
 
-
 # Gems
 gems:
   - jemoji
@@ -44,6 +43,10 @@ jekyll-mentions: https://twitter.com
 # Meta
 meta:
   twitter: JessicaGurr
+
+# SCSS
+sass:
+  style: :compressed
 
 # Defaults
 defaults:
