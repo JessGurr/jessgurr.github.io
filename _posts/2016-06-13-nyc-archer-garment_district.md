@@ -6,7 +6,7 @@ image: "https://jessgurr.github.io/images/nyc_friendlytown.jpg"
 
 ![nyc16_trip](https://jessgurr.github.io/images/nyc2016.jpg)
 
-**The next installment of our trip to NYC back in May. We had such an ace time, I couldn't condense it down to a single post, so I'm tackling the city by districts. This one is all about the Garment District and our hotel, [Archer Hotel](http://archerhotel.com/new-york), which is situated at the top of the district on W38th, just below Times Square and Midtown. I've also written a review of the hotel over on [Trip Advisor](https://www.tripadvisor.co.uk/ShowUserReviews-g60763-d5550873-r380268062-Archer_Hotel_New_York-New_York_City_New_York.html) - it was a really cool place to stay and I would certainly recommend it.** 
+**The next instalment of our trip to NYC back in May. We had such an ace time, I couldn't condense it down to a single post, so I'm tackling the city by districts. This one is all about the Garment District and our hotel, [Archer Hotel](http://archerhotel.com/new-york), which is situated at the top of the district on W38th, just below Times Square and Midtown. I've also written a review of the hotel over on [Trip Advisor](https://www.tripadvisor.co.uk/ShowUserReviews-g60763-d5550873-r380268062-Archer_Hotel_New_York-New_York_City_New_York.html) - it was a really cool place to stay and I would certainly recommend it.** 
 
 <!--more-->
 
