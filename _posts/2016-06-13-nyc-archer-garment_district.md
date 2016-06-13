@@ -6,9 +6,7 @@ image: "https://jessgurr.github.io/images/nyc_friendlytown.jpg"
 
 ![nyc16_trip](https://jessgurr.github.io/images/nyc2016.jpg)
 
-**Just over a month ago, Dave and I travelled to New York City for a five day break - it was his first trip and my third, so I showed him the sights and we found a few new interesting places on our travels, too. I’ve written up what we did during our time there; it’s done by district as a (mostly) day by day account. We fit in so much each day that there’s quite a lot to cover. I’ll probably have five or so ‘episodes’, if you will, about what we got up to so that it’s not one massively long post!** 
-
-**I’ve also tried to include some helpful tips and links to cool places to see and eat that we visited whilst we were there. If you’re planning a trip in the near future, you might find something that piques your interest, so sit back, grab a cup of tea and have a read.**
+**The next installment of our trip to NYC back in May. We had such an ace time, I couldn't condense it down to just one, so I'm tackling the city by districts. This one is all about the Garment District and our hotel, [Archer Hotel](http://archerhotel.com/new-york), which is situated at the top of the district on W38th, just below Times Square and Midtown. I've also written a review of the hotel over on [Trip Advisor](https://www.tripadvisor.co.uk/ShowUserReviews-g60763-d5550873-r380268062-Archer_Hotel_New_York-New_York_City_New_York.html) - it was a really cool place to stay and I would certainly recommend it.** 
 
 <!--more-->
 
@@ -17,6 +15,8 @@ image: "https://jessgurr.github.io/images/nyc_friendlytown.jpg"
 ![nyc16_archer_hotel](https://jessgurr.github.io/images/nyc2016_archer.jpg)
 
 When we arrived at the Archer Hotel around 3pm on the Thursday, we were sweaty, aching and exhausted. An almost eight hour flight, three hour shuffle around customs, and an hour’s journey into the city (not to mention the fact we’d already been up for five hours prior to all of this), it was all we could do not to fall down at reception and sleep right there. Being greeted by a smiling face and a warm welcome made a lot of difference, I can tell you. Archer’s New York home away from home is not massive by most hotel standards, but what it lacks in size is made up in every other detail. 
+
+{% include image-left.html path="https://jessgurr.github.io/images/archer_tea.jpg" alt="Archer Hotel Dave making teas" %}
 
 A very helpful bellman assisted us to the room - a cosy king size on the fifteenth floor. I’d painstakingly researched which hotel to stay in and had checked out pictures of AH before we booked, so I knew it’d be nice. I wasn’t expecting it to be even swankier than the Archer website showed. Despite being a little on the small size, there was every convenience you could need: a huge bed that almost swallowed you when you laid on it and you could hide your suitcases beneath; a Nespresso* machine that was restocked every day; a personal fridge, which we used for snacks, water and milk, alongside the mini bar/fridge, which we left well alone; a wardrobe which housed a safe, iron and ironing board, space for hanging clothes (obvs) and to put your shoes; and a sliding door bathroom which was super clean (you’d be surprised how *not* clean some hotels are and I can be a little bit of a clean freak) with [Malin + Goetz](https://www.malinandgoetz.com/) beauty products for you to use. There were even ‘his and hers’ slippers and robes: 
 
