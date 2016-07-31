@@ -9,7 +9,7 @@ url: http://jessgurr.com
 
 author:
   name: 'Jess Gurr'
-  url: https://twitter.com/JessicaGurr
+  url: https://twitter.com/jessgurrwrites
 
 paginate:         5
 
@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
 links:
   Instagram: "https://instagram.com/jessgurrwrites/"
   Pinterest: "https://www.pinterest.com/jessgurrwrites/"
-  Twitter: "http://twitter.com/JessicaGurr"
+  Twitter: "http://twitter.com/jessgurrwrites"
   # GitHub: "http://github.com/JessGurr"
   # Behance: "http://flickr.com/wildfire198"
   Flickr: "https://www.flickr.com/photos/ohtothejaydizzle"
@@ -42,7 +42,7 @@ jekyll-mentions: https://twitter.com
 
 # Meta
 meta:
-  twitter: JessicaGurr
+  twitter: jessgurrwrites
 
 # SCSS
 sass:
