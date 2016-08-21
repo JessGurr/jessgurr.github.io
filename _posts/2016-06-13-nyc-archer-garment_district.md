@@ -2,7 +2,7 @@
 title: "'New York, New York': Archer Hotel and the Garment District"
 date: 2016-06-13 00:00:00 Z
 layout: post
-image: /uploads/nyc_friendlytown.jpg
+image: "/uploads/nyc_friendlytown.jpg"
 ---
 
 ![nyc16_trip](/uploads/nyc2016.jpg)

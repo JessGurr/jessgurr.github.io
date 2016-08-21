@@ -2,7 +2,7 @@
 title: Ray's Pizza
 date: 2016-01-12 00:00:00 Z
 layout: post
-image: /uploads/IMG_2814.jpg
+image: "/uploads/IMG_2814.jpg"
 ---
 
 ![Rays Pizza](/uploads/rays_pizza.jpg)

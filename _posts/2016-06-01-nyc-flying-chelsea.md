@@ -2,7 +2,7 @@
 title: "'New York, New York': flying and the Chelsea District"
 date: 2016-06-01 00:00:00 Z
 layout: post
-image: /uploads/chelsea1.jpg
+image: "/uploads/chelsea1.jpg"
 ---
 
 ![nyc16_trip](/uploads/nyc2016.jpg)
