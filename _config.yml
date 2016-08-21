@@ -21,6 +21,7 @@ defaults:
   values:
     is_post: true
     layout: post
+    image: # Appears empty by default
 permalink: pretty
 tagline: Copywriter, Illustrator & Designer
 description: This is the website of Jess Gurr - Copywriter, Illustrator and Designer
