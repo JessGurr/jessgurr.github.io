@@ -48,4 +48,4 @@ jekyll-mentions: https://twitter.com
 meta:
   twitter: jessgurrwrites
 sass:
-  style: :compressed
+  style: compressed
