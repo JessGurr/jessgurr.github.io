@@ -1,7 +1,7 @@
 ---
+title: Book journal - 2016
+date: 2016-03-09 00:00:00 Z
 layout: post
-published: true
-title: "Book journal - 2016"
 ---
 
 **Every year, I used to write a book journal for all the books I had read and those that I wanted to read. It’s a leftover from my Creative Writing degree. To be honest, I didn’t read a lot last year, but it’s a different story (haha, see what I did there?) for the start of 2016. Here is what I’ve read so far and what is coming up in the book list.**

@@ -1,6 +1,7 @@
 ---
+title: Hello World!
+date: 2015-07-07 00:00:00 Z
 layout: post
-title: "Hello World!"
 ---
 
 Hello, world! It's nice to meet you. 

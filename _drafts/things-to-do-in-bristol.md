@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Things to do in Bristol
+date: 2015-09-29 00:00:00 Z
+layout: post
 ---
 
 ## Things to do in Bristol

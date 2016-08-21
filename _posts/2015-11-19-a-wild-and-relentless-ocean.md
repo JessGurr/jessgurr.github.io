@@ -1,7 +1,7 @@
 ---
-layout: post
 title: A wild and relentless ocean
-published: true
+date: 2015-11-19 00:00:00 Z
+layout: post
 image: https://farm3.staticflickr.com/2687/4381243528_8cee311075_z.jpg
 ---
 

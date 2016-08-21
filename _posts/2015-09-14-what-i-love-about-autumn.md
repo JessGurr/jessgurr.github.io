@@ -1,7 +1,7 @@
 ---
-published: true
+title: What I love about Autumn
+date: 2015-09-14 00:00:00 Z
 layout: post
-title: "What I love about Autumn"
 ---
 
 There's nothing better than to go out on a really chilly, crisp Autumn morning, wrapped up in warm clothes, cup of steaming coffee in hand (there's a bit of a coffee theme going on here :smirk:) and walking to work through all the crunchy, brightly coloured leaves that litter the floor. 

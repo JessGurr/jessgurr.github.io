@@ -1,7 +1,8 @@
 ---
-layout: post
 title: "'New York, New York': flying and the Chelsea District"
-image: "https://jessgurr.github.io/images/chelsea1.jpg"
+date: 2016-06-01 00:00:00 Z
+layout: post
+image: https://jessgurr.github.io/images/chelsea1.jpg
 ---
 
 ![nyc16_trip](https://jessgurr.github.io/images/nyc2016.jpg)

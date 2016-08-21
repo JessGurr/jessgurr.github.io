@@ -1,66 +1,51 @@
-# Permalinks
-permalink: pretty
-
-# Setup
+---
 title: Jess Gurr
-tagline: 'Copywriter, Illustrator & Designer'
-description: 'This is the website of Jess Gurr - Copywriter, Illustrator and Designer based in Bristol, UK'
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    is_page: true
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    is_post: true
+    layout: post
+permalink: pretty
+tagline: Copywriter, Illustrator & Designer
+description: This is the website of Jess Gurr - Copywriter, Illustrator and Designer
+  based in Bristol, UK
 url: http://jessgurr.com
-
 author:
-  name: 'Jess Gurr'
+  name: Jess Gurr
   url: https://twitter.com/jessgurrwrites
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
+paginate: 5
+version: 2.1.0
 github:
   repo: https://github.com/JessGurr/jessgurr.github.io
-
-# Posts
-excerpt_separator: <!--more-->
-
-# Sidebar links
+excerpt_separator: "<!--more-->"
 links:
-  Instagram: "https://instagram.com/jessgurrwrites/"
-  Pinterest: "https://www.pinterest.com/jessgurrwrites/"
-  Twitter: "http://twitter.com/jessgurrwrites"
-  # GitHub: "http://github.com/JessGurr"
-  # Behance: "http://flickr.com/wildfire198"
-  Flickr: "https://www.flickr.com/photos/ohtothejaydizzle"
-
-# Gems
+  Instagram: https://instagram.com/jessgurrwrites/
+  Pinterest: https://www.pinterest.com/jessgurrwrites/
+  Twitter: http://twitter.com/jessgurrwrites
+  Flickr: https://www.flickr.com/photos/ohtothejaydizzle
 gems:
-  - jemoji
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jekyll-paginate
-
+- jemoji
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
 jekyll-mentions: https://twitter.com
-
-# Meta
 meta:
   twitter: jessgurrwrites
-
-# SCSS
 sass:
   style: :compressed
-
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      is_page: true
-      layout: page
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      is_post: true
-      layout: post

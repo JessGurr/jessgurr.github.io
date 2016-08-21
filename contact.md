@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Contact me
+layout: page
 ---
 
 Want to chat about some possible copywriting work?<br/>

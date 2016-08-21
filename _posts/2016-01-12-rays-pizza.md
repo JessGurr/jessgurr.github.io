@@ -1,7 +1,7 @@
 ---
+title: Ray's Pizza
+date: 2016-01-12 00:00:00 Z
 layout: post
-title: "Ray's Pizza"
-published: true
 image: https://jessgurr.com/images/IMG_2814.jpg
 ---
 

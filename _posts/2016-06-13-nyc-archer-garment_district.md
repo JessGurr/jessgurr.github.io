@@ -1,7 +1,8 @@
 ---
-layout: post
 title: "'New York, New York': Archer Hotel and the Garment District"
-image: "https://jessgurr.com/images/nyc_friendlytown.jpg"
+date: 2016-06-13 00:00:00 Z
+layout: post
+image: https://jessgurr.com/images/nyc_friendlytown.jpg
 ---
 
 ![nyc16_trip](https://jessgurr.com/images/nyc2016.jpg)

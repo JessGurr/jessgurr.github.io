@@ -1,5 +1,6 @@
 ---
-published: false
+title: Creativity
+date: 2016-08-21 22:21:01.930000000 Z
 ---
 
 # Creativity

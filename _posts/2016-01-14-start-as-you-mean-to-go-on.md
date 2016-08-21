@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Start as you mean to go on
-published: true
+date: 2016-01-14 00:00:00 Z
+layout: post
 ---
 
 ![Fitness]({{site.baseurl}}/images/2016fitness.jpg)
