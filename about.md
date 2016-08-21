@@ -3,4 +3,4 @@ title: About
 layout: page
 ---
 
-Coming soon! :smile:
+Coming soon!
