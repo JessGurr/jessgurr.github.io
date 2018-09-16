@@ -24,21 +24,20 @@ defaults:
     image: 
 permalink: pretty
 tagline: Copywriter, Illustrator & Designer
-description: This is the website of Jess Gurr - Copywriter, Illustrator and Designer
-  based in Bristol, UK
-url: https://jessgurr.com
+description: This is the website of Jess Darnes - Writer based in Bristol, UK
+url: https://jessdarneswrites.com
 author:
-  name: Jess Gurr
-  url: https://twitter.com/jessgurrwrites
+  name: Jess Darnes Writes
+  url: https://twitter.com/jessdarnes
 paginate: 5
 version: 2.1.0
 github:
-  repo: https://github.com/JessGurr/jessgurr.github.io
+  repo: https://github.com/jessdarneswrites/jessdarneswrites.github.io
 excerpt_separator: "<!--more-->"
 links:
-  Instagram: https://instagram.com/jessgurrwrites/
-  Pinterest: https://www.pinterest.com/jessgurrwrites/
-  Twitter: http://twitter.com/jessgurrwrites
+  Instagram: https://instagram.com/jessdarneswrites/
+  Pinterest: https://www.pinterest.com/jessdarneswrites/
+  Twitter: http://twitter.com/jessdarnes
   Flickr: https://www.flickr.com/photos/ohtothejaydizzle
 gems:
 - jemoji
@@ -47,6 +46,6 @@ gems:
 - jekyll-paginate
 jekyll-mentions: https://twitter.com
 meta:
-  twitter: jessgurrwrites
+  twitter: jessdarnes
 sass:
   style: compressed
