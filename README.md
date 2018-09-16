@@ -1,4 +1,4 @@
-# [jessgurr.com](http://jessgurr.com)
+# [jessdarneswrites.com](https://jessdarneswrites.com)
 
 This is the repo for my personal websites, running on Jekyll & GitHub Pages. The design is based [Hyde](https://github.com/poole/hyde) by [@mdo](https://github.com/mdo) but with the following changes:
 
